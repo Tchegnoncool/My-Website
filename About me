@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='UTF-8'>
+  <title>Portfolio Homepage</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="nav-wrapper">
+      <div class="left-side">
+        <div class="nav-link-wrapper">
+          <a href="index.html">Home</a>
+        </div>
+
+        <div class="nav-link-wrapper active-nav-link">
+          <a href="about.html">About</a>
+        </div>
+      </div>
+
+      <div class="right-side">
+        <div class="brand">
+          Tchegnon Adjagbodjou
+        </div>
+      </div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="two-column-wrapper">
+        <div class="profile-image-wrapper">
+          <img src="images/portfolio1.jpg" alt="">
+        </div>
+
+        <div class="profile-content-wrapper">
+          <h1>Hi, Tchegnon here! Thanks for visiting my web-site.</h1>
+          <p>I graduated from Eagan High School in spring of 2023 and I am currently a freshmen attending
+            CMU. I am a Statistics and Machine Learning major working towards an additional major in Computer
+            Science.
+            Here is a link to my GitHub: https://github.com/Tchegnoncool 
+            Here is a link to my Linkedin https://www.linkedin.com/in/tchegnon-adjagbodjou-64466a2ab/.
+          </p>
+
+          <p>Some of my hobbies include basketball, scateboarding, soccer, and watching anime.
+            I am very inthusiactic and passionate about picking up new hobbies. I hope you enjoyed
+            your stay on this website. If you have not already, plase take some time to play the games
+            on the last page.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>
